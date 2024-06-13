@@ -2,7 +2,6 @@
 # cf.http://d.hatena.ne.jp/white_wheels/20100327/p3
 import matplotlib.pylab as plt
 import numpy as np
-from mpl_toolkits.mplot3d import Axes3D
 
 
 def _numerical_gradient_no_batch(f, x):
